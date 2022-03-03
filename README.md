@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Braynner Teixeira</h1>
 <h3 align="center">A passionate android developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Trinity Soluções**
+- 🔭 I’m currently working on **Banco Inter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
